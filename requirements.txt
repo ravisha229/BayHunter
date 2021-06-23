@@ -1,0 +1,6 @@
+matplotlib
+numpy
+PyPDF2
+configobj
+zmq
+Cython
